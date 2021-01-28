@@ -1,14 +1,9 @@
-Facebook Embedded Videos Android Player
+Android Videos Player
 =======================================
-An Android WebView Helper to plays videos from Facebook embedded
+Helper View to play videos using Facebook Embedded Videos API
 
 Resources : 
 [https://developers.facebook.com/docs/plugins/embedded-video-player/api](https://developers.facebook.com/docs/plugins/embedded-video-player/api)
-
-Screenshot
-========
-
-![](ss.jpg)
 
 How to use
 ----------
@@ -78,38 +73,5 @@ Example :
         fbPlayerView.unmute();
         
 
-```
-
-
-Updated
-------
-v 0.0.1 - Uploaded
-
-
-Author
-------
-Rama Zeta - @zeattacker on GitHub, ramazeta1997@gmail.com
-
-
-Disclaimer
----------
-This is not an official Facebook Products.
-
-License
--------
-```code
-Copyright 2016 Rama Zeta
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
 ```
 
